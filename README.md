@@ -49,6 +49,14 @@ To install and run this project locally, follow these steps:
 - Run the application by running `python app.py`
 - Open a web browser and navigate to http://localhost:5000
 
+## Train Data Samples
+![Train Data Samples](https://github.com/jksingh07/Image-caption-generator/blob/main/Results/train.png)
+
+# Results
+![Result without BLEU score](https://github.com/jksingh07/Image-caption-generator/blob/main/Results/result.png)
+![Final Results](https://github.com/jksingh07/Image-caption-generator/blob/main/Results/result2.png)
+![Final Results](https://github.com/jksingh07/Image-caption-generator/blob/main/Results/result3.png)
+
 ## Acknowledgments
 
 The authors would like to thank the creators of TensorFlow, Keras, and Flask for their contributions to the open-source community.
