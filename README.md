@@ -1,5 +1,8 @@
 # Image Caption Generator
 
+## Introduction
+The basic working of the project is that the features are extracted from the images using pre-trained VGG16 model and then fed to the LSTM model along with the captions to train. The trained model is then capable of generating captions for any images that are fed to it.
+
 The Image Caption Generator project aims to develop software that can generate descriptive captions for images using neural networks language models. It involves dual techniques from computer vision to understand the content of the image and a language model from the field of natural language processing to turn the understanding of the image into words in the right order.
 
 ## Functionality
@@ -9,8 +12,6 @@ This web application performs the following functions:
 - **Image Captioning**: Recognising different types of objects in an image and creating a meaningful sentence that describes that image to visually impaired persons.
 - **Text to Speech Conversion**: Converting the generated sentence into audio form for easy access to the visually impaired.
 
-## Introduction
-The basic working of the project is that the features are extracted from the images using pre-trained VGG16 model and then fed to the LSTM model along with the captions to train. The trained model is then capable of generating captions for any images that are fed to it.
 
 ## Dataset
 The dataset used here is the FLICKR 8K which consists of around 8091 images along with 5 captions for each images. If you have a powerful system with more than 16 GB RAM and a graphic card with more than 4 GB of memory, you can try to take FLICKR 30K which has around 30,000 images with captions.
