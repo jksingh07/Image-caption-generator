@@ -2,9 +2,10 @@
 The goal is to design an web application that covers all the functions of image description and provides an interface to the user. 
 By using Deep Learning techniques the project performed:  
 
-    **• Image Captioning: Recognising Different types of objects in an image and creating a meaningful sentence that describes that image to visually impaired persons. 
+  • Image Captioning: Recognising Different types of objects in an image and creating a 
+  meaningful sentence that describes that image to visually impaired persons. 
     
-    • Text to speech conversion: Forgiving the result in audio form.** 
+  • Text to speech conversion: Forgiving the result in audio form.** 
 
 This project aims to develop software that can generate descriptive captions for images using neural networks language models. This project can act as a vision for visually impaired people, as it can identify nearby objects through the camera and give output in audio form. The application can provide a highly interactive platform for specially-abled people. 
 
